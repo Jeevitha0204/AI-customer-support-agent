@@ -89,7 +89,7 @@ The agent escalates to a human when any of these is true (defined in the policy 
 - **Python** 3.10 or newer
 - **uv** for dependency and environment management
 - **LangChain** (`langchain-google-genai`) as the LLM interface
-- **Google Gemini** (`gemini-2.5-flash`) as the model
+- **Google Gemini** (`gemini-3.8-flash`) as the model
 - **Streamlit** for the web interface
 - **pandas** for showing case tables
 - **python-dotenv** for loading the API key from a `.env` file

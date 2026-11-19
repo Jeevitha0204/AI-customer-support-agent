@@ -107,7 +107,7 @@ The agent escalates to a human when any of these is true (defined in the policy 
 ├── .python-version                 # Python version (uv)
 ├── .gitignore                      # Keeps .env, cases.json etc. out of Git
 ├── README.md                       # This file
-├── .env                            # Your API key (NOT uploaded to GitHub)
+├── .env                            # Your API key (NOT uploaded here)
 └── cases.json                      # Created automatically when you process tickets
 ```
 

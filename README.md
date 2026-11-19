@@ -280,7 +280,11 @@ Arun Kumar
 - Add automated tests and a dashboard of case statistics
 
 ## website link  
-http://localhost:8501/
+https://ai-customer-support-agent-website.streamlit.app/
 
 ## website demo
+<img width="911" height="377" alt="image" src="https://github.com/user-attachments/assets/50db4f4c-6da6-47d6-b9d1-185656388d39" />
+<img width="458" height="290" alt="image" src="https://github.com/user-attachments/assets/41a32942-cab9-437b-a5d1-7b4fc93e9f6d" />
+
+
 

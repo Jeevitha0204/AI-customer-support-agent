@@ -279,8 +279,8 @@ Arun Kumar
 - Support more languages, including Tamil and Hindi
 - Add automated tests and a dashboard of case statistics
 
-## Security Notes
+## website link  
+http://localhost:8501/
 
-- Never commit your `.env` file. It is listed in `.gitignore`.
-- If an API key was ever uploaded to GitHub by mistake, delete it in the provider's dashboard and create a new one.
-- Do not paste real customer personal data into a public demo.
+## website demo
+
